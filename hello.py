@@ -4,8 +4,8 @@
 print('Hello World!')
 
 
-x = 2
-y = 5
+x = 5
+y = 2
 
 
-print(x*y)
+print(x/y)
